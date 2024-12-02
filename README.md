@@ -50,13 +50,13 @@ You have the right to:
 Access: Request a copy of the data we store about you.
 Deletion: Request that we delete your data.
 Opt-Out: Stop using the Bot and revoke its permissions in your Discord server.
-To exercise these rights, contact us at [Your Contact Email or Discord].
+To exercise these rights, contact us at discord: kefnatl.
 
 6. Data Security
 We take appropriate technical and organizational measures to secure your data and protect it from unauthorized access, alteration, or disclosure.
 
 7. Changes to This Policy
-We may update this Privacy Policy from time to time. Updates will be announced via [your announcement channel or platform]. Continued use of the Bot signifies your acceptance of the revised policy.
+We may update this Privacy Policy from time to time. Updates will be announced via the updates channel on the bot server. Continued use of the Bot signifies your acceptance of the revised policy.
 
 8. Contact
 If you have any questions about this Privacy Policy, please contact us:
