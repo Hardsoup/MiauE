@@ -1,5 +1,5 @@
 # MiauE
-Terms of Service (ToS) for MiauE
+# Terms of Service (ToS)
 1. Acceptance of Terms
 By inviting and using MiauE (the "Bot"), you agree to be bound by these Terms of Service. If you do not agree with any part of these terms, you must not use the Bot.
 
